@@ -1,6 +1,6 @@
 /*****************************************************
  * CSS Mockup Activity - Custom CSS Stylesheet
- * @author rlewis37
+ * @author rluna41
  *
  * Some rules have been included here to give you a head start.
  * Create your own custom CSS rules below. Have fun!
@@ -54,20 +54,6 @@ body { width: 100%;}
 .sfooter-content {
 	flex: 1 0 auto;
 }
-
-
-/***************************************************
-* ADD YOUR OWN CSS BELOW! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
-*
-* HINT: You might want to be conversant with the following:
-* * Shorthand syntax for padding, margin, and borders
-* * Display property and values... and the differences between them.
-* * The Box Model
-* * Pseudo Classes
-* * Attribute Selectors
-****************************************************/
-
-
 
 /**
  * Style rules
