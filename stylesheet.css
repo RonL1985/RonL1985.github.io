@@ -193,5 +193,5 @@ form div:nth-child(4){
 footer {
 	background-color: black;
 	color: white;
-	text-align: left;
+	text-align: justify-all;
 }
